@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Igor 👋
+_________________
 
-<!--
-**Skijetler/Skijetler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=20&color=%CFCCC7&lines=My+Leetcode+stats:)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=stegcrypter&theme=dark)](https://leetcode.com/stegcrypter/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_________________
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skijetler&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skijetler&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skijetler&theme=monokai)
+
+
+_________________
+
+### Technology Stack:
+
+<p>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height="32" width="32" src="https://api.iconify.design/devicon/elasticsearch.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+</p>
